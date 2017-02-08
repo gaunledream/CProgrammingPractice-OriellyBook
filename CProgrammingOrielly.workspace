@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CProgrammingOrielly" Database="" Version="10.0.0">
+  <Project Name="ModuleTutC" Path="ModuleTutC/ModuleTutC.project" Active="Yes"/>
+  <Project Name="FinalProject_stat" Path="FinalProject_stat/FinalProject_stat.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ModuleTutC" ConfigName="Debug"/>
+      <Project Name="FinalProject_stat" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ModuleTutC" ConfigName="Release"/>
+      <Project Name="FinalProject_stat" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

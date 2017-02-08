@@ -1,0 +1,37 @@
+[{
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/ch_type.c.o -MF./Debug/ch_type.c.o.d -MM ch_type.c",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/ch_type.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/in_file.c.o -MF./Debug/in_file.c.o.d -MM in_file.c",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/in_file.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/ch_type.c.o -MF./Debug/ch_type.c.o.d -MM ch_type.c",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/ch_type.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/token.c.o -MF./Debug/token.c.o.d -MM token.c",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/token.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/stat.c.o -MF./Debug/stat.c.o.d -MM stat.c",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/stat.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -c /home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/ch_type.c -g -O0 -Wall -o ./Debug/ch_type.c.o -I. -I.",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/ch_type.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -c /home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/in_file.c -g -O0 -Wall -o ./Debug/in_file.c.o -I. -I.",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/in_file.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -c /home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/token.c -g -O0 -Wall -o ./Debug/token.c.o -I. -I.",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/token.c"
+ }, {
+  "directory": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat",
+  "command": "gcc -c /home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/stat.c -g -O0 -Wall -o ./Debug/stat.c.o -I. -I.",
+  "file": "/home/mlt/Documents/CProgrammingOrielly/FinalProject_stat/stat.c"
+ }]
